@@ -14,7 +14,7 @@ h1, h2{
 	font-family: 'Abril Fatface', serif;
   font-size: 46px; 
 }
-
+ /*header styles*/
 header h1{
 	color: whitesmoke; 
 	font-size: 50px;
@@ -24,9 +24,9 @@ header h1{
 header img{
 	border-radius: 200px;
 	    width: 300px; 
-	    border: 20px solid black;
+	    border: 20px solid black;}
 
-}
+
   main{ 
   	max-width: 800px;
 	  	text-align: center;
